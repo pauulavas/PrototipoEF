@@ -595,6 +595,131 @@ namespace CapaDatos
 
         }
 
+        //***********************
+        public OdbcDataReader guardar9(string uno, string dos, string tres, float cuatro, string sestado)
+        {
+            try
+            {
+                cn.conexionbd();
+                string consulta = "insert into ventas_encabezado values(" + uno + ", '" + dos + "' ,'" + tres + "','" + cuatro + "','" + sestado + "');";
+                comm = new OdbcCommand(consulta, cn.conexionbd());
+                OdbcDataReader mostrar = comm.ExecuteReader();
+                return mostrar;
+            }
+            catch (Exception err)
+            {
+                Console.WriteLine(err.Message);
+                return null;
+            }
+        }
+        //--------------------------------------------------- MODIFICAR UNO ------------------------------------------------------------------------------------------
+        public OdbcDataReader modificar9(string uno, string dos, string tres, float cuatro,  string sestado)
+        {
+            try
+            {
+                cn.conexionbd();
+                string consulta = "UPDATE ventas_encabezado set codigo_cliente ='" + dos + "',fecha_ventaenca='" + tres + "',total_ventaenca='" + cuatro + "',estatus_ventaenca='" + sestado + "' where documento_ventaenca='" + uno + "';";
+                comm = new OdbcCommand(consulta, cn.conexionbd());
+                OdbcDataReader mostrar = comm.ExecuteReader();
+                return mostrar;
+            }
+            catch (Exception err)
+            {
+                Console.WriteLine(err.Message);
+                return null;
+            }
+        }
+        //--------------------------------------------------- ELIMINAR UNO -------------------------------------------------------------------------------------------
+        public OdbcDataReader eliminar9(string uno)
+        {
+            try
+            {
+                cn.conexionbd();
+                string consulta = "UPDATE ventas_encabezado set estatus_ventaenca ='0' where documento_ventaenca='" + uno + "';";
+                comm = new OdbcCommand(consulta, cn.conexionbd());
+                OdbcDataReader mostrar = comm.ExecuteReader();
+                return mostrar;
+            }
+            catch (Exception err)
+            {
+                Console.WriteLine(err.Message);
+                return null;
+            }
+        }
+
+        public OdbcDataReader consulta9(string uno)
+        {
+
+
+            try
+            {
+                cn.conexionbd();
+                string consulta = "select * from ventas_encabezado where estatus_ventaenca = '1';";
+                comm = new OdbcCommand(consulta, cn.conexionbd());
+                OdbcDataReader mostrar = comm.ExecuteReader();
+                return mostrar;
+            }
+            catch (Exception err)
+            {
+                Console.WriteLine(err.Message);
+                return null;
+            }
+
+        }
+
+        public OdbcDataReader guardar15(string uno, string dos, float sestado)
+        {
+            try
+            {
+                cn.conexionbd();
+                string consulta = "insert into existencias values(" + uno + ", '" + dos + "' ,'" + sestado + "');";
+                comm = new OdbcCommand(consulta, cn.conexionbd());
+                OdbcDataReader mostrar = comm.ExecuteReader();
+                return mostrar;
+            }
+            catch (Exception err)
+            {
+                Console.WriteLine(err.Message);
+                return null;
+            }
+        }
+
+        //--------------------------------------------------- MODIFICAR DOS ------------------------------------------------------------------------------------------
+        public OdbcDataReader modificar15(string uno, string dos, float sestado)
+        {
+            try
+            {
+                cn.conexionbd();
+                string consulta = "UPDATE existencias set codigo_producto='" + dos + "',saldo_existencia='" + sestado + "' where codigo_bodega='" + uno + "';";
+                comm = new OdbcCommand(consulta, cn.conexionbd());
+                OdbcDataReader mostrar = comm.ExecuteReader();
+                return mostrar;
+            }
+            catch (Exception err)
+            {
+                Console.WriteLine(err.Message);
+                return null;
+            }
+        }
+        public OdbcDataReader consulta15(string uno)
+        {
+
+
+            try
+            {
+                cn.conexionbd();
+                string consulta = "select * from existencias ;";
+                comm = new OdbcCommand(consulta, cn.conexionbd());
+                OdbcDataReader mostrar = comm.ExecuteReader();
+                return mostrar;
+            }
+            catch (Exception err)
+            {
+                Console.WriteLine(err.Message);
+                return null;
+            }
+
+        }
 
     }
 }

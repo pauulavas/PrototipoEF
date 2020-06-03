@@ -79,11 +79,23 @@
     <Compile Include="Consultas\ConsultVendedores.Designer.cs">
       <DependentUpon>ConsultVendedores.cs</DependentUpon>
     </Compile>
+    <Compile Include="Consultas\ConsultVentasEnca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\ConsultVentasEnca.Designer.cs">
+      <DependentUpon>ConsultVentasEnca.cs</DependentUpon>
+    </Compile>
     <Compile Include="Consultas\Consult_Producto.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Consultas\Consult_Producto.Designer.cs">
       <DependentUpon>Consult_Producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Consult_Existencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Consult_Existencias.Designer.cs">
+      <DependentUpon>Consult_Existencias.cs</DependentUpon>
     </Compile>
     <Compile Include="Mantenimientos\MantClientes.cs">
       <SubType>Form</SubType>
@@ -133,6 +145,24 @@
     <Compile Include="MDIParent1.Designer.cs">
       <DependentUpon>MDIParent1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Procesos\Existencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Procesos\Existencias.Designer.cs">
+      <DependentUpon>Existencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Procesos\VentasDetalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Procesos\VentasDetalle.Designer.cs">
+      <DependentUpon>VentasDetalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Procesos\VentasEncabezado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Procesos\VentasEncabezado.Designer.cs">
+      <DependentUpon>VentasEncabezado.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -154,8 +184,14 @@
     <EmbeddedResource Include="Consultas\ConsultVendedores.resx">
       <DependentUpon>ConsultVendedores.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\ConsultVentasEnca.resx">
+      <DependentUpon>ConsultVentasEnca.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Consultas\Consult_Producto.resx">
       <DependentUpon>Consult_Producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Consult_Existencias.resx">
+      <DependentUpon>Consult_Existencias.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Mantenimientos\MantClientes.resx">
       <DependentUpon>MantClientes.cs</DependentUpon>
@@ -181,10 +217,14 @@
     <EmbeddedResource Include="MDIParent1.resx">
       <DependentUpon>MDIParent1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Procesos\Existencias.resx">
+      <DependentUpon>Existencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Procesos\VentasEncabezado.resx">
+      <DependentUpon>VentasEncabezado.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Procesos\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\CapaLogica\CapaLogica.csproj">
       <Project>{1ab2e63c-617d-4f17-bba2-4a233700366d}</Project>

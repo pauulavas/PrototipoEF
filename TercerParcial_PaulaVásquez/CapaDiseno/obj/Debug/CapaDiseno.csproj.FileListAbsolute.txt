@@ -95,3 +95,7 @@ C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Terce
 C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.csproj.CopyComplete
 C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.dll
 C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultVentasEnca.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Procesos.VentasEncabezado.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.Consult_Existencias.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Procesos.Existencias.resources

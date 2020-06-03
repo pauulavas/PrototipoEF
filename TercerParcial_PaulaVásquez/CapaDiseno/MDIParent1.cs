@@ -1,5 +1,6 @@
 ﻿using CapaDiseno.Consultas;
 using CapaDiseno.Mantenimientos;
+using CapaDiseno.Procesos;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -516,6 +517,51 @@ namespace CapaDiseno
             else
             {
                 consult_12.WindowState = System.Windows.Forms.FormWindowState.Normal;
+            }
+        }
+        bool Proceso_Dos = false;
+        VentasEncabezado proceso_dos = new VentasEncabezado();
+        private void ventasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            Form frmC = Application.OpenForms.Cast<Form>().FirstOrDefault(x => x is VentasEncabezado);
+            if (Proceso_Dos == false || frmC == null)
+            {
+                if (frmC == null)
+                {
+                    proceso_dos = new VentasEncabezado();
+                }
+
+                proceso_dos.MdiParent = this;
+                proceso_dos.Show();
+                Application.DoEvents();
+                Proceso_Dos = true;
+            }
+            else
+            {
+                proceso_dos.WindowState = System.Windows.Forms.FormWindowState.Normal;
+            }
+        }
+        bool Proceso_Uno = false;
+        Existencias proceso_uno = new Existencias();
+        private void existenciasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form frmC = Application.OpenForms.Cast<Form>().FirstOrDefault(x => x is Existencias);
+            if (Proceso_Uno == false || frmC == null)
+            {
+                if (frmC == null)
+                {
+                    proceso_uno = new Existencias();
+                }
+
+                proceso_uno.MdiParent = this;
+                proceso_uno.Show();
+                Application.DoEvents();
+                Proceso_Uno = true;
+            }
+            else
+            {
+                proceso_uno.WindowState = System.Windows.Forms.FormWindowState.Normal;
             }
         }
     }

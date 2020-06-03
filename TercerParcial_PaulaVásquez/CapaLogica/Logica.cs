@@ -200,5 +200,44 @@ namespace CapaLogica
         }
       */
 
+        public OdbcDataReader guardar9(string uno, string dos, string tres, float cuatro, string estado)
+        {
+            return sn.guardar9(uno, dos, tres, cuatro, estado);
+
+        }
+
+        public OdbcDataReader modificar9(string uno, string dos, string tres, float cuatro, string estado)
+        {
+            return sn.modificar9(uno, dos, tres, cuatro, estado);
+
+        }
+
+        public OdbcDataReader eliminar9(string uno)
+        {
+            return sn.eliminar1(uno);
+
+        }
+        public OdbcDataReader consulta9(string numero)
+        {
+            return sn.consulta9(numero);
+        }
+
+        public OdbcDataReader guardar15(string uno, string dos, float estado)
+        {
+            return sn.guardar15(uno, dos, estado);
+
+        }
+
+        public OdbcDataReader modificar15(string uno, string dos, float estado)
+        {
+            return sn.modificar15(uno, dos, estado);
+
+        }
+
+        public OdbcDataReader consulta15(string numero)
+        {
+            return sn.consulta15(numero);
+        }
+
     }
 }
