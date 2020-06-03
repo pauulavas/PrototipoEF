@@ -27,4 +27,3 @@ C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueb
 C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\obj\Debug\Prueba_Examen_PaulaVásquez.csproj.CopyComplete
 C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\obj\Debug\Prueba_Examen_PaulaVásquez.exe
 C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\obj\Debug\Prueba_Examen_PaulaVásquez.pdb
-C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\CapaDiseno.dll
