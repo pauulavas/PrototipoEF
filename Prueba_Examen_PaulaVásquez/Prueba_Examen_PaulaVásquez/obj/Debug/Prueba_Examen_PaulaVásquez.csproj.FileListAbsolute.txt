@@ -1,0 +1,30 @@
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\Prueba_Examen_PaulaVásquez.exe.config
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\Prueba_Examen_PaulaVásquez.exe
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\Prueba_Examen_PaulaVásquez.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\CapaLogica.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\CapaDiseno.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\CapaLogica.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\obj\Debug\Prueba_Examen_PaulaVásquez.csprojAssemblyReference.cache
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\obj\Debug\Prueba_Examen_PaulaVásquez.Properties.Resources.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\obj\Debug\Prueba_Examen_PaulaVásquez.csproj.GenerateResource.cache
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\obj\Debug\Prueba_Examen_PaulaVásquez.csproj.CopyComplete
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\obj\Debug\Prueba_Examen_PaulaVásquez.exe
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\obj\Debug\Prueba_Examen_PaulaVásquez.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\CapaDiseno.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\Prueba_Examen_PaulaVásquez.exe.config
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\Prueba_Examen_PaulaVásquez.exe
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\Prueba_Examen_PaulaVásquez.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\CapaLogica.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\CapaDiseno.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\CapaLogica.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\obj\Debug\Prueba_Examen_PaulaVásquez.csprojAssemblyReference.cache
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\obj\Debug\Prueba_Examen_PaulaVásquez.Properties.Resources.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\obj\Debug\Prueba_Examen_PaulaVásquez.csproj.GenerateResource.cache
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\obj\Debug\Prueba_Examen_PaulaVásquez.csproj.CopyComplete
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\obj\Debug\Prueba_Examen_PaulaVásquez.exe
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\obj\Debug\Prueba_Examen_PaulaVásquez.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\Prueba_Examen_PaulaVásquez\Prueba_Examen_PaulaVásquez\bin\Debug\CapaDiseno.dll

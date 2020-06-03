@@ -1,0 +1,97 @@
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaDiseno\bin\Debug\CapaDiseno.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaDiseno\bin\Debug\CapaDiseno.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaDiseno\bin\Debug\CapaLogica.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaDiseno\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaDiseno\bin\Debug\CapaLogica.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaDiseno\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaDiseno\obj\Debug\CapaDiseno.csprojAssemblyReference.cache
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaDiseno\obj\Debug\CapaDiseno.Consultas.Consult.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.Mant.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaDiseno\obj\Debug\CapaDiseno.MDIParent1.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaDiseno\obj\Debug\CapaDiseno.Procesos.Proceso.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaDiseno\obj\Debug\CapaDiseno.csproj.GenerateResource.cache
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaDiseno\obj\Debug\CapaDiseno.csproj.CopyComplete
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaDiseno\obj\Debug\CapaDiseno.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaDiseno\obj\Debug\CapaDiseno.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaDiseno.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaDiseno.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaLogica.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaLogica.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.csprojAssemblyReference.cache
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultMaestro.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantMaestro.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.MDIParent1.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Procesos.Proceso.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.csproj.GenerateResource.cache
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.csproj.CopyComplete
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultAula.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantAulas.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantCursos.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultCurso.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantFacultad.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultFacultad.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantJornadas.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultJornada.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultSeccion.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantSeccion.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultSede.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantSede.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultCarrera.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Procesos.AsignacionCursoCatedratico.resources
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultAsignacion.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.csprojAssemblyReference.cache
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultClientes.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultMarcas.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultLineas.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultBodega.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultProveedor.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultVendedores.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.Consult_Producto.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantClientes.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantMarcas.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantLineas.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantBodegas.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantProducto.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantProveedores.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantVendedores.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.MDIParent1.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.csproj.GenerateResource.cache
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaDiseno.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaDiseno.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaLogica.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaLogica.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.csproj.CopyComplete
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaDiseno.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaDiseno.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaLogica.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaLogica.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.csprojAssemblyReference.cache
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultClientes.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultMarcas.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultLineas.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultBodega.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultProveedor.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.ConsultVendedores.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Consultas.Consult_Producto.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantClientes.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantMarcas.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantLineas.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantBodegas.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantProducto.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantProveedores.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.MantVendedores.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.MDIParent1.resources
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.csproj.GenerateResource.cache
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.csproj.CopyComplete
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaDiseno\obj\Debug\CapaDiseno.pdb
