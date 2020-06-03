@@ -1,0 +1,32 @@
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez - copia\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Paula V\Documents\Universidad\Noveno Semestre\Ingenieria de Software\Segundo Parcial\Progra\SegundoParcial_PaulaVásquez\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\SegundoParcial_PaulaVásquez\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Paula V\Desktop\Final\Procesos\Prototipo2P-RamaProcesos0901161037\TercerParcial_PaulaVásquez\CapaLogica\obj\Debug\CapaLogica.pdb
